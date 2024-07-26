@@ -3,6 +3,7 @@ import hero_banner from '../../assets/hero_banner.jpg';
 import hero_caption from '../../assets/hero_title.png';
 import info_icon from '../../assets/info_icon.png';
 import play_icon from '../../assets/play_icon.png';
+import Footer from '../../components/Footer/Footer';
 import NavBar from '../../components/NavBar/NavBar';
 import TitleCard from '../../components/TitleCard/TitleCard';
 import './Home.css';
@@ -18,11 +19,19 @@ const Home = () => {
           <div className="hero-btns">
             <button className='btn'><img src={play_icon} alt=""  />Play</button>
             <button className='btn dark-btn'><img src={info_icon} alt="" />Play</button>
-            <TitleCard/>
           </div>
+          <TitleCard/>
+
         </div>
 
       </div>
+      <div className="more-card">
+<TitleCard title={"Blockbuster Movies"}/>
+<TitleCard title={"only on Netflix"}/>
+<TitleCard title={"Upcoming"}/>
+<TitleCard title={"Top pics for You"}/>
+</div>
+<Footer/>
     </div>
   )
 }
