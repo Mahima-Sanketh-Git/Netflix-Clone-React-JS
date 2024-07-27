@@ -17,7 +17,7 @@
 }
 
 .card-list img{
-  width: 240px;
+  width: 180px;
   border-radius: 4px;
   cursor: pointer;
 }
@@ -30,4 +30,6 @@
   position: absolute;
   bottom: 10px;
   right: 10px;
+  text-decoration: none;
+  color: #fff;
 }
