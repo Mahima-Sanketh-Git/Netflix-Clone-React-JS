@@ -78,3 +78,34 @@
 .navbar-profile:hover .dropdown{
   display: block;
 }
+
+.nav-dark{
+  background: #171717;
+}
+
+
+@media (max-width:800px) {
+  .navbar{
+    padding: 20px 4%;
+  }
+  .navbar-left ul{
+    display: none;
+  }
+  .navbar img{
+    height: 25px;
+  }
+}
+
+
+@media (max-width:500px) {
+  .navbar{
+    padding: 20px ;
+  }
+  
+  .navbar img{
+    height: 20px;
+  }
+  .navbar-left{
+    gap: 10px;
+  }
+}

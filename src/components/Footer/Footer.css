@@ -26,3 +26,15 @@
   font-size: 14px;
   color: grey;
 }
+
+@media (max-width:800px) {
+  .footer-icon img{
+    width: 25px;
+  }
+
+  .footer ul{
+    gap: 8px;
+    font-size: 14px;
+    grid-template-columns: auto auto;
+  }
+}

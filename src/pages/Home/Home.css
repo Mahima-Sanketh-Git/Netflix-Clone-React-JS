@@ -69,3 +69,56 @@ color: #fff;
 .more-card{
   padding-left: 6%;
 }
+
+
+@media (max-width:1024px) {
+  .hero-caption .title-card{
+    display: none;
+  }
+  .hero-btns{
+    margin-bottom: 30px;
+  }
+}
+
+
+@media (max-width:800px) {
+  .hero-caption {
+padding: 4%;
+  }
+  .hero-btns{
+    margin-bottom: 30px;
+  }
+
+  .caption-img{
+    width: 40%;
+    margin-bottom: 10px;
+  }
+
+  .hero-caption p{
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+  .hero-btns img{
+    width: 20px;
+  }
+
+  .more-card{
+    padding-left: 4%;
+  }
+}
+
+@media (max-width:500px){
+.btn{
+  padding: 4px 10px;
+  font-size: 10px;
+  gap: 5px;
+
+}
+ .btn img{
+  width: 15px;
+}
+
+.caption-img{
+  display: none;
+}
+}

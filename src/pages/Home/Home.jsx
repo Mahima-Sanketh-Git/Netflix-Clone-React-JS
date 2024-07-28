@@ -20,7 +20,7 @@ const Home = () => {
             <button className='btn'><img src={play_icon} alt=""  />Play</button>
             <button className='btn dark-btn'><img src={info_icon} alt="" />Play</button>
           </div>
-          <TitleCard title={"Popular on Netflix"} category={'popular'}/>
+          <TitleCard className='title-card' title={"Popular on Netflix"} category={'popular'}/>
 
         </div>
 
