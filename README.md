@@ -1,4 +1,4 @@
-# ceylontrip
+# Netflix Clone
 
 Netflix Web App Clone with React Js
 
