@@ -2,7 +2,7 @@
 
 Netflix Web App Clone with React Js
 
-![app logo](https://static.wikia.nocookie.net/logopedia/images/8/83/Srilanka_logo.png/revision/latest?cb=20150502050036)
+![app logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7asGZsIW-6nNKHnJQNcK1CfN-R8azUzmhA&s)
 
 ## Getting Started
 
