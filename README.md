@@ -1,8 +1,9 @@
-# React + Vite
+# ceylontrip
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Netflix Web App Clone with React Js
 
-Currently, two official plugins are available:
+![app logo]([https://static.wikia.nocookie.net/logopedia/images/8/83/Srilanka_logo.png/revision/latest?cb=20150502050036](https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_scale.size_760x427.v1582751026.png))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+React js X Firebase X TMDB API
